@@ -1,6 +1,6 @@
-# GlowStar CRM
+# recursivediamond CRM
 
-GlowStar CRM is a modular ASP.NET Core 3.1 API solution designed for customer relationship management, supplier and seller workflows, pricing operations, identity management, and file processing. The solution is organized as a collection of web APIs that share common infrastructure, business logic, and data access projects, making it easy to extend and deploy as a multi-service backend.
+recursivediamond CRM is a modular ASP.NET Core 3.1 API solution designed for customer relationship management, supplier and seller workflows, pricing operations, identity management, and file processing. The solution is organized as a collection of web APIs that share common infrastructure, business logic, and data access projects, making it easy to extend and deploy as a multi-service backend.
 
 ## Overview
 

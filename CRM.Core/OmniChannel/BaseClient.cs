@@ -12,7 +12,7 @@ namespace CRM.Core.OmniChannel {
         public Message SendRecoveryOTPSMS(long phoneNum, string code) {
             string body = code + " is your SECRET one Time Password (OTP) for Password Recovery. Do not share it with anyone.";
 
-            var message = client.SendMessage("GlowStar", body, new[] { phoneNum });
+            var message = client.SendMessage("recursivediamond", body, new[] { phoneNum });
             return message;
         }
 

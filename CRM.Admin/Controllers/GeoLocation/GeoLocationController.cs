@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
 
-namespace GlowStar.WebApi.Controllers.GeoLocation {
+namespace recursivediamond.WebApi.Controllers.GeoLocation {
     [Route("api/GeoLocation")]
     [ApiController]
     //[Authorize]

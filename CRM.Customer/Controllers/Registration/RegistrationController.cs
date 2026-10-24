@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
 
-namespace GlowStar.WebApi.Controllers.Registration {
+namespace recursivediamond.WebApi.Controllers.Registration {
     [Route("api/Register")]
     [ApiController]
     public class RegistrationController : ControllerBase {
